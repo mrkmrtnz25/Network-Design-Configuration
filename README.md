@@ -7,4 +7,4 @@ install-windowsfeature ad-domain-services  -IncludeAllSubFeature -IncludeManagem
 ```
 Install-ADDSForest  -DomainName  "mark.ca" -installDns
 ```
-![alt text](https://github.com/mrkmrtnz25/Network-Design-Configuration/blob/main/topology.png?raw=true)
+![Alt text](C:\Users\mrkmr\Documents\GitHub\Network-Design-Configuration\topology.png)
